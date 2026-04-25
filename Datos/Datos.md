@@ -4,7 +4,7 @@ Los microdatos completos utilizados en este trabajo no se incluyen en este repos
 
 Pueden descargarse en el siguiente enlace:
 
-🔗 https://drive.google.com/drive/folders/1KG0dEKKYhSIDn37GeKSka-h0HhwcwZji?usp=drive_link
+🔗 https://drive.google.com/drive/folders/1KG0dEKKYhSlDn37GeKSka-h0HhwcwZji?usp=sharing
 
 ### Descripción
 
