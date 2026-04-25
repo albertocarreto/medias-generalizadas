@@ -14,6 +14,9 @@ Esta carpeta contiene bases de datos derivadas de la Encuesta Nacional de Ingres
 
 Los ingresos han sido reexpresados en pesos constantes de agosto de 2022 mediante un procedimiento de deflactación que permite establecer un numerario común consistente entre distintas ediciones de la encuesta.
 
+###
+El archivo .iqy permite la descarga directa de las series del INPC desde el INEGI. Al ejecutarse en Excel, solicita el periodo de consulta (año inicial y final).
+
 ### Notas
 
 - Estas bases corresponden a una transformación analítica de los microdatos originales.
