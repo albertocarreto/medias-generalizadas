@@ -133,8 +133,8 @@ Datos/
   25(1-2), 1-28.
 
 ## Autor
-Alberto Carreto Nieto
+XXXX XXXX XXXX
 
 ---
 
-Abril de 2026
+Ciudad de México, abril de 2026
